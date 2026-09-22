@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lucien0508.github.io/weiguang-volunteer/sitemap-index.xml
